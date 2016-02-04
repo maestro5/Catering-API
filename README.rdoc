@@ -1,0 +1,12 @@
+Used:
+- Authenticate (Devise)
+- Admin panel (ActiveAdmin)
+- API (Grape)
+- API documentation (grape-swagger)
+- Client 
+  - Backbone.js
+  - CoffeeScript
+  - yeoman.io
+  - Bootstrap-sass
+  - RequireJS
+  - Gulp

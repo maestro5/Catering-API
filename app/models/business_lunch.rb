@@ -1,0 +1,2 @@
+class BusinessLunch < Dish
+end
